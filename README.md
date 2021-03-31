@@ -1,13 +1,19 @@
 # CURRÍCULO
 
-Esse é o meu [Currículo](https://carvalhoh.github.io/site/).
+## MÍDIAS
+
+Meu [![GitHub](./image/github)](https://github.com/carvalhoh/)
+
+Meu [![Currículo](./image/curriculo)](https://carvalhoh.github.io/site/)
+
+Meu [![LinkedIn](./image/linkedin)](https://www.linkedin.com/in/carvalhohebert/)
 
 ***
 ## TAREFAS
 
 - [x] Criar o Layout padrão
 - [x] Colocar um conteúdo de simples
-- [ ] Escolher as cores
+- [x] Escolher as cores
 - [ ] Escolher as fonts
 - [ ] Criar o Design
 - [ ] Terminar de preencher
@@ -16,3 +22,10 @@ Esse é o meu [Currículo](https://carvalhoh.github.io/site/).
 ## MOTIVOS
 
 Além de estar criando este site, para colocar o meu __currículo__, ele serve para eu poder ir treinando e desenvolvendo a minha habilidade em **HTML** e __CSS__ (depois de terminado o _site_, eu colocarei o JS).
+
+## CORES
+
+*body* -> rgb(193, 200, 205)
+*hr* -> rgb(78, 151, 198)
+_h1_ -> rgb(5, 16, 228)
+_h2_ -> rgb(146, 103, 50)
