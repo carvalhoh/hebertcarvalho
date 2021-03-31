@@ -2,11 +2,11 @@
 
 ## MÍDIAS
 
-Meu [![GitHub](./image/github)](https://github.com/carvalhoh/)
+Meu [![GitHub](./image/github.png)](https://github.com/carvalhoh/)
 
-Meu [![Currículo](./image/curriculo)](https://carvalhoh.github.io/site/)
+Meu [![Currículo](./image/curriculo.png)](https://carvalhoh.github.io/site/)
 
-Meu [![LinkedIn](./image/linkedin)](https://www.linkedin.com/in/carvalhohebert/)
+Meu [![LinkedIn](./image/linkedin.png)](https://www.linkedin.com/in/carvalhohebert/)
 
 ***
 ## TAREFAS
