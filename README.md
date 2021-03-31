@@ -2,11 +2,11 @@
 
 ## MÍDIAS
 
-[![GitHub](./image/github50x50.png)](https://github.com/carvalhoh/)
+[![GitHub](./image/github50x50.png)](https://github.com/carvalhoh/) - **[GitHub](https://github.com/carvalhoh/)**
 
-[![Currículo](./image/curriculo50x50.png)](https://carvalhoh.github.io/site/)
+[![Currículo](./image/curriculo50x50.png)](https://carvalhoh.github.io/site/) - **[Currículo](https://carvalhoh.github.io/site/)**
 
-[![LinkedIn](./image/linkedin50x50.png)](https://www.linkedin.com/in/carvalhohebert/)
+[![LinkedIn](./image/linkedin50x50.png)](https://www.linkedin.com/in/carvalhohebert/) - **[LinkedIn](https://www.linkedin.com/in/carvalhohebert/)**
 
 ***
 ## TAREFAS
@@ -18,6 +18,7 @@
 - [ ] Criar o Design
 - [ ] Terminar de preencher
 ---
+
 
 ## MOTIVOS
 
