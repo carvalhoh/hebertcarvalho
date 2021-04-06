@@ -32,6 +32,14 @@ a:hover {
     color:rgb(209, 206, 206);
 }
 
+a#direita {
+    align: right;
+}
+
+a#direita:hover {
+    background-color: rgb(209, 206, 206);
+}
+
 img#topo {
     width: 50px;
     position: absolute;
