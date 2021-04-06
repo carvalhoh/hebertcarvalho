@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient( 45deg, rgb(181, 191, 245), rgb(42, 42, 158));
+}
+
+header {
+    width: 70%;
+    margin: auto;
+    height: 96px;
+}
+
+article {
+    margin: auto;
+    border-radius: 10px;
+    border: 5px;
+    width: 70%;
+    background-color: rgb(209, 206, 206);
+    padding: 20px;
+}
+
+h1#header {
+    text-align: center;
+}
+
+img {
+    width: 90%;
+    padding: 20px;
+}
+
+a {
+    padding: 20px;
+}
+
+a:hover {
+    background-color: rgb(209, 206, 206);
+    color:rgb(42, 42, 158)
+}
