@@ -10,7 +10,6 @@ div#left {
     position: absolute;
     float: left;
     margin-right: 3px;
-    min-height: 600px;
 }
 
 div#right {
@@ -26,7 +25,6 @@ aside {
     padding-top: 1px;
     padding-left: 15px;
     margin: 8px;
-    min-height: 600px;
 
 }
 section {
