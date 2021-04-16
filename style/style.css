@@ -38,3 +38,23 @@ p#habilidades {
     font-weight: bold;
     text-align: center;
 }
+
+.up {
+    float: right;
+}
+
+.down {
+    float: right;
+}
+
+section.ocultar > p {
+    display: none;
+}
+
+section:hover > .up {
+    transform: rotate(180deg);
+}
+
+section:hover > p {
+    display: block;
+}
