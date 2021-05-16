@@ -68,7 +68,7 @@ main, section {
     border-radius: 15px 0px;
     padding: 10px 7px 10px 15px;
     border-color: rgb(136, 99, 25);
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.384);
+    box-shadow: 2px 2px 2px 0.01px rgba(27, 27, 27, 0.199);
 }
 
 main > h2 {
