@@ -20,12 +20,3 @@
 
 Além de estar criando este site, para colocar o meu __currículo__, ele serve para eu poder ir treinando e desenvolvendo a minha habilidade em **HTML** e __CSS__ (depois de terminado o _site_, eu colocarei o JS).
 
-## CORES
-
-*body* -> rgb(193, 200, 205)
-
-*hr* -> rgb(78, 151, 198)
-
-_h1_ -> rgb(5, 16, 228)
-
-_h2_ -> rgb(146, 103, 50)
