@@ -10,8 +10,8 @@
 - [x] Criar o Layout padrão
 - [x] Colocar um conteúdo de simples
 - [x] Escolher as cores
-- [ ] Escolher as fonts
-- [ ] Criar o Design
+- [x] Escolher as fonts
+- [x] Criar o Design
 - [ ] Terminar de preencher
 ---
 
